@@ -1,10 +1,10 @@
-## E aí, sou o Lucas Oliveira! 
+## Welcome! I'm *Lucas Oliveira*! 
 
 
 <div align="center">
   <a href="https://github.com/lucaoliveiraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaoliveiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaoliveiraa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaoliveiraa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaoliveiraa&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
   <img align="center" alt="Lucas-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">  
 </div>
 
-## Atualmente trabalho com front-end e estou estudando React!
+#### Currently i work with front-end and i have been studying React!
 
 <div> 
   <a href="https://www.linkedin.com/in/lucaoliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
