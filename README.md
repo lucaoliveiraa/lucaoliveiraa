@@ -19,7 +19,7 @@
 
 <br>
 
-### Currently I working at Elo Cartões with front-end and I have been studying React! 💻
+### Currently I work at Elo Cartões with front-end and I’ve been studying React! 💻
 
 <br><br>
   
