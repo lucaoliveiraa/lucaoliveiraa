@@ -1,4 +1,4 @@
-## Welcome! I'm *Lucas Oliveira*! 
+## Welcome! 👋 I'm *Lucas Oliveira*! 
 
 <br>
 
