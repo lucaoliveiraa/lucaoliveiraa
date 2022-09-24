@@ -1,5 +1,6 @@
 ## Welcome! I'm *Lucas Oliveira*! 
 
+<br>
 
 <div align="center">
   <a href="https://github.com/lucaoliveiraa">
@@ -16,10 +17,14 @@
   <img align="center" alt="Lucas-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">  
 </div>
 
-#### Currently I working at Elo Cartões with front-end and I have been studying React!
+<br>
+
+### Currently I working at Elo Cartões with front-end and I have been studying React! 💻
+
+<br><br>
   
   ## Contact
-
+<br>
 <div> 
   <a href="https://www.linkedin.com/in/lucaoliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-lucaoliveiraa-05122A?style=flat&logo=linkedin" target="_blank"></a> 
   <a href="https://www.instagram.com/lucaoliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-lucaoliveiraa-05122A?style=flat&logo=instagram" target="_blank"></a>
