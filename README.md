@@ -13,15 +13,15 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Lucas-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">  
 </div>
 
-#### Currently i work with front-end and i have been studying React!
+#### Currently I working at Elo Cartões with front-end and I have been studying React!
+  
+  ## Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/lucaoliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/lucaoliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/243188990935695360" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://account.microsoft.com/profile/?refd=outlook.live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucaoliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-lucaoliveiraa-05122A?style=flat&logo=linkedin" target="_blank"></a> 
+  <a href="https://www.instagram.com/lucaoliveiraa/" target="_blank"><img src="https://img.shields.io/badge/-lucaoliveiraa-05122A?style=flat&logo=instagram" target="_blank"></a>
+  <a href="https://discord.gg/243188990935695360" target="_blank"><img src="https://img.shields.io/badge/-Lucas Oliveira1696-05122A?style=flat&logo=discord" target="_blank"></a> 
 </div>
